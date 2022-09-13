@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1663009361 "/Users/Shared/d/Effectiveness-of-Computing-Engines-on-Training-ML-Models-main/finalanalysis/main.tex" "main.pdf" "main" 1663009362
-  "/Users/Shared/d/Effectiveness-of-Computing-Engines-on-Training-ML-Models-main/finalanalysis/main.tex" 1663009361 5819 1506fbe53d7311a7a2d5c8af2c66dfbe ""
+["pdflatex"] 1663059582 "/Users/Shared/d/UGV-project/finalanalysis/main.tex" "main.pdf" "main" 1663059582
+  "/Users/Shared/d/UGV-project/finalanalysis/main.tex" 1663059581 5821 4e4609e06a707d2799093257a5e75876 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -128,12 +128,10 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1662955603 2826440 62e790fc676bc96b37fbf984efde3bcf ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "constantbatch.eps" 1662615861 24468 0848f34f5107d3e3f7caaad17d3e4f0d ""
-  "constantepoch.eps" 1662615861 26827 c9b79ce6e422e991fab220224670de38 ""
-  "main.aux" 1663009362 1415 78593ce1e9947a9c02f494102e9c6b68 "pdflatex"
-  "main.out" 1663009362 426 8a674d6d2a8194d103d9cce21bea5f44 "pdflatex"
-  "main.tex" 1663009361 5819 1506fbe53d7311a7a2d5c8af2c66dfbe ""
-  "main.toc" 1663009362 273 1248df33d47a1b3fbd53fb177da8800b "pdflatex"
+  "main.aux" 1663059582 1415 78593ce1e9947a9c02f494102e9c6b68 "pdflatex"
+  "main.out" 1663059582 426 8a674d6d2a8194d103d9cce21bea5f44 "pdflatex"
+  "main.tex" 1663059581 5821 4e4609e06a707d2799093257a5e75876 ""
+  "main.toc" 1663059582 273 1248df33d47a1b3fbd53fb177da8800b "pdflatex"
   (generated)
   "main.aux"
   "main.log"
